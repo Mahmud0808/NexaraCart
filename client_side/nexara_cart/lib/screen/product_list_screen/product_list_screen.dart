@@ -23,7 +23,7 @@ class ProductListScreen extends StatelessWidget {
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
               const Text(
-                "Hello Mahmud",
+                "Hello There",
                 style: TextStyle(
                   fontSize: 18,
                   fontWeight: FontWeight.w700
