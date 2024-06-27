@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "80368134740",
+    "project_id": "nexaracart",
+    "storage_bucket": "nexaracart.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80368134740:android:d50f343b49885aacab5bc1",
+        "android_client_info": {
+          "package_name": "com.drdisagree.nexara_cart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-Ts6qiAXJ0gj_9qlmL5M_yyoAmoa_0Pg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
