@@ -30,9 +30,9 @@ You need to have [Android Studio](https://developer.android.com/studio) and [Vis
 
 ## Prerequisite 📋
 
-- Node.js
+- Node.js v18.16.0
 
-- npm
+- npm v9.5.1
 
 ## Getting Started 🚀
 
@@ -40,7 +40,7 @@ You need to have [Android Studio](https://developer.android.com/studio) and [Vis
 
 - Go to `server_side` > `.env` > Paste your MongoDB connection string, Stripe publishable key, Stripe secret key, Razorpay API key (optional), OneSignal APP ID and OneSignal Rest API key.
 
-- Go to `client_side` > `admin_panel` > `lib` > `utility` > `constants.dart` > Change `MAIN_URL` with your server URL if required.
+- Go to `client_side` > `admin_panel` > `lib` > `utility` > `constants.dart` > Change `MAIN_URL` with your server URL.
 
 - Go to `client_side` > `nexara_cart` > `lib` > `utility` > `constants.dart` > Change `SERVER_URL` and OneSignal APP ID with yours.
 
